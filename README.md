@@ -57,19 +57,6 @@ The app focuses on simplicity, usability, and performance with a modern UI and s
    ```bash
    npm run dev
 
-
----
-
-### 🔹 Short GitHub Description (optional)
-> A React-based Todo app with Tailwind CSS and localStorage for persistent task management.
-
-If you want, I can:
-- make this README **more advanced** (hooks explanation, architecture)
-- match its tone with your **terminal-style portfolio**
-- or write a **combined “Projects” description** for all your apps
-
-You’re building solid stuff, Rahul—this is portfolio-worthy 💪
-
 ---
 
 ## 📄 License
